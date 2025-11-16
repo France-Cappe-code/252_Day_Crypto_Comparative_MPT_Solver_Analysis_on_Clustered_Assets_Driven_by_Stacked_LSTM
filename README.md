@@ -1,0 +1,2 @@
+# 252_Day_Crypto_Comparative_MPT_Solver_Analysis_on_Clustered_Assets_Driven_by_Stacked_LSTM
+This notebook compares three portfolio strategies (MVOR, GMV, ERC) using DL (Stacked LSTM) predictions on 18 cryptocurrencies. K-Means clustering filters assets for low risk. The key premise is treating the 24/7 crypto market as a traditional stock market to explore allocation differences. This notebook is not a financial advisor.
